@@ -1,7 +1,7 @@
 // Déclaration de la fonction xxx popup
 function xxxPopup()
   {
-  if (confirm("Hey, le site xxxvidsxxx est trop bien. Viens dessus c'est super !"))
+  if (confirm("Hey, le site xxxvidsxxx est trop bien. Viens dessus c'est super !!!"))
     {
     window.location = "https://www.youtube.com/watch?v=Gs069dndIYk";
     }
